@@ -20,5 +20,19 @@ SetTargetMethod
 Implement Productservice Adapter
 Tell Item reader when to stop reading
 
+Item Writers
+
+FlateFile Item Writer
+XML Item Writer
+DatabaseItem Writer
+
+Resource* where to write the file
+Line Aggreagator let the writer know how to map each properties to each line
+Set HEader and Footer
+
+XML Item Writer - StaxEventItemWriter
+
+Resource, Marshaller, RootTagName
+
 
 
