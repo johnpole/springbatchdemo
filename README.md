@@ -12,3 +12,13 @@ JDBCCursorItemReader
 Read from JSON:
 Resource: where to read from the file
 JsonObjectReader: How to map the JSON object to JAVA domain object
+
+Read from WebService:
+ItemReaderAdapter
+Set Target Object
+SetTargetMethod
+Implement Productservice Adapter
+Tell Item reader when to stop reading
+
+
+
