@@ -5,6 +5,6 @@ learning spring batch
 Readers
 
 JDBCCursorItemReader
-  -data source
-  -SQL
-  -mapping the colums to the bean
+  step 1: data source
+  step 2: SQL
+  Step 3: mapping the colums to the bean
