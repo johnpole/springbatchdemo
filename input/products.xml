@@ -1,0 +1,31 @@
+<products>
+    <product>
+        <prodId>1</prodId>
+        <productName>apple</productName>
+        <productDesc>iphone</productDesc>
+        <price>999</price>
+        <unit>10</unit>
+    </product>
+    <product>
+        <prodId>2</prodId>
+        <productName>samsung</productName>
+        <productDesc>mobile</productDesc>
+        <price>899</price>
+        <unit>12</unit>
+    </product>
+    <product>
+        <prodId>3</prodId>
+        <productName>LG</productName>
+        <productDesc>flipphone</productDesc>
+        <price>888</price>
+        <unit>100</unit>
+    </product>
+    <product>
+        <prodId>4</prodId>
+        <productName>Moto</productName>
+        <productDesc>MotG</productDesc>
+        <price>123</price>
+        <unit>1222</unit>
+    </product>
+
+</products>
