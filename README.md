@@ -9,4 +9,6 @@ JDBCCursorItemReader
   step 2: SQL
   Step 3: mapping the colums to the bean
 
-Read from JSON
+Read from JSON:
+Resource: where to read from the file
+JsonObjectReader: How to map the JSON object to JAVA domain object
