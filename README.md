@@ -34,5 +34,23 @@ XML Item Writer - StaxEventItemWriter
 
 Resource, Marshaller, RootTagName
 
+nees spring oxm and xstream dependency
 
 
+Database Item Writer
+JDBC Item Writer
+set Datasource
+setSQL
+setItemPrepared Statement
+
+
+Item Processor
+
+Filtering ( this decide which needs to send to writer) and transformation
+
+
+Implement BulleProof Jobs
+
+Robust Traceble,Restartable
+
+skip invalid records
